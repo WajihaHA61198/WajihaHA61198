@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1>Hi 👋, I'm Wajiha Hanif Arain</h1>
-<p>A passionate front-end developer from Pakistan.</p>
+<p>A passionate front-end developer from Pakistan.
+A tech enthusiastand always keen to learn new skills.
+</p>
 
 <h3 align="left">Education</h3>
 <p align="left"> BSSE from UBIT, Karachi University.</p>
