@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Wajiha Hanif Arain</h1>
 <p>A passionate front-end developer from Pakistan.</p>
 
+<h3 align="left">Education</h3>
+<p align="left"> BSSE from UBIT, Karachi University.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@arainwajiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arainwajiha" height="30" width="40" /></a>
